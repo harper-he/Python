@@ -2,12 +2,12 @@ This repository is a collection of 6 assignments and 1 project of Big Data Analy
 
 Big Data Analytics course information:
 
-Professor: Willard Williamson 
-Learning Objectives:
-• Translate a business challenge into an analytics challenge
-• Use Python and Apache Spark to build big data analytics pipelines
-• Use linear and logistic regression, decision trees, and neural networks to make predictions
-• Learn classic and state of the art machine learning techniques
+Professor: Willard Williamson<br /> 
+Learning Objectives:<br />
+• Translate a business challenge into an analytics challenge<br />
+• Use Python and Apache Spark to build big data analytics pipelines<br />
+• Use linear and logistic regression, decision trees, and neural networks to make predictions<br />
+• Learn classic and state of the art machine learning techniques<br />
 
 Texts / Supplies:
 • Python Data Science Handbook (PDSH) by Jake VanderPlas (Free),
