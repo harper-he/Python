@@ -2,7 +2,7 @@ This repository is a collection of 6 equally weighted homework assignments and o
 
 
 
-Course information:
+## Course information:
 
 Professor: Willard Williamson<br /> 
 Learning Objectives:<br />
@@ -11,7 +11,7 @@ Learning Objectives:<br />
 • Use linear and logistic regression, decision trees, and neural networks to make predictions<br />
 • Learn classic and state of the art machine learning techniques<br />
 
-Texts / Supplies:<br />
+## Texts / Supplies:<br />
 • Python Data Science Handbook (PDSH) by Jake VanderPlas,
 https://jakevdp.github.io/PythonDataScienceHandbook/<br />
 • An introduction to Statistical Learning with Applications in R (ISLR) by Gareth James,
