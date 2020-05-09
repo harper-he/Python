@@ -1,6 +1,8 @@
-This repository is a collection of 6 assignments and 1 project of Big Data Analytics course.
+This repository is a collection of 6 equally weighted homework assignments and one group project of Big Data Analytics course.
 
-Big Data Analytics course information:
+
+
+Course information:
 
 Professor: Willard Williamson<br /> 
 Learning Objectives:<br />
