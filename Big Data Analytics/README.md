@@ -12,8 +12,8 @@ Learning Objectives:<br />
 • Learn classic and state of the art machine learning techniques<br />
 
 ## Texts / Supplies:<br />
-• Python Data Science Handbook (PDSH) by Jake VanderPlas,
-  https://jakevdp.github.io/PythonDataScienceHandbook/<br />
+• Python Data Science Handbook (PDSH) by Jake VanderPlas,<br />
+    https://jakevdp.github.io/PythonDataScienceHandbook/<br />
 • An introduction to Statistical Learning with Applications in R (ISLR) by Gareth James,
 Daniela, Witten, Trevor Hastie, and Robert Tibshirani <br />
 http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf
