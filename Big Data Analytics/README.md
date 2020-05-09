@@ -1,22 +1,26 @@
 This repository is a collection of 6 equally weighted homework assignments and one group project of Big Data Analytics course.
 
-## Language: Python
+## Tools: Python + Spark’s machine learning (ML) library
 
 ##  Topics:<br /> 
-#### Deep Learning: 
-Neural Networks, gradient descent, forward and back propagation<br /> 
-#### PCA: 
-loading vector, score, projection, scree plot, feature selection, implement a recommender system<br /> 
+#### Hadoop, Spark
 #### Logistic Regression / Regularization: 
 characteristic shape, feature selection, L1 and L2 regularization, elastic net regularization, model flexibility<br /> 
+#### Assessing Model Accuracy:
+generalization performance, loss function, bias / variance trade off, model complexity, overfitting, K-Fold cross validation, confusion matrix, ROC curve 
+#### Statistical Learning:
+reducible error, irreducible error, parametric model, non-parametric model, inference, maximum likelihood estimation
+#### PCA: 
+loading vector, score, projection, scree plot, feature selection, implement a recommender system<br /> 
+### Features Extracting, transforming and selecting:
+TFIDF, StringIndexer, OneHotEncoder, StandardScaler, Bucketizer, VectorAssembler
+#### Random Forest, Gradient Boosting Machines:
+entropy, gini index, information gain 
+#### Bootstrap Sampling / Bagging
+#### Deep Learning: 
+Neural Networks, gradient descent, forward and back propagation<br /> 
 
-
-
-
-
-
-
-## Content
+## Table of Content
 HW1:create functions, create classes, monte-carlo simulation, numpy, matplotlib and pandas basic operations<br /> 
 HW2:
 
