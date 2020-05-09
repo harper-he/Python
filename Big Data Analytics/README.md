@@ -1,5 +1,21 @@
 This repository is a collection of 6 equally weighted homework assignments and one group project of Big Data Analytics course.
 
+## Language: Python
+
+##  Topics:<br /> 
+#### Deep Learning: Neural Networks, gradient descent, forward and back propagation<br /> 
+#### PCA: loading vector, score, projection, scree plot, feature selection, implement a recommender system<br /> 
+#### Logistic Regression / Regularization:
+
+
+
+
+
+
+## Content
+HW1:create functions, create classes, monte-carlo simulation, numpy, matplotlib and pandas basic operations<br /> 
+HW2:
+
 
 
 ## Course information:
