@@ -3,9 +3,13 @@ This repository is a collection of 6 equally weighted homework assignments and o
 ## Language: Python
 
 ##  Topics:<br /> 
-#### Deep Learning: Neural Networks, gradient descent, forward and back propagation<br /> 
-#### PCA: loading vector, score, projection, scree plot, feature selection, implement a recommender system<br /> 
-#### Logistic Regression / Regularization:
+#### Deep Learning: 
+Neural Networks, gradient descent, forward and back propagation<br /> 
+#### PCA: 
+loading vector, score, projection, scree plot, feature selection, implement a recommender system<br /> 
+#### Logistic Regression / Regularization: 
+characteristic shape, feature selection, L1 and L2 regularization, elastic net regularization, model flexibility<br /> 
+
 
 
 
