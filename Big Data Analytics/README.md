@@ -1,6 +1,7 @@
 This repository is a collection of 6 equally weighted homework assignments and one group project of Big Data Analytics course.
 
-## Tools: Python + Spark’s machine learning (ML) library
+## Tools: 
+Python + Spark’s machine learning (ML) library
 
 ##  Topics:<br /> 
 #### Hadoop, Spark
@@ -21,8 +22,9 @@ entropy, gini index, information gain
 Neural Networks, gradient descent, forward and back propagation<br /> 
 
 ## Table of Content
-HW1:create functions, create classes, monte-carlo simulation, numpy, matplotlib and pandas basic operations<br /> 
-HW2:
+#### HW1:
+create functions, create classes, monte-carlo simulation, numpy, matplotlib and pandas basic operations<br /> 
+#### HW2:
 
 
 
