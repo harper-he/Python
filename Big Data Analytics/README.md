@@ -1,4 +1,4 @@
-This repository is a collection of 6 equally weighted homework assignments and one group project of Big Data Analytics course.
+This repository is a collection of 6 homework assignments and one group project of Big Data Analytics course.
 
 ## Tools: 
 Python + Spark’s machine learning (ML) library
