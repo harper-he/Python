@@ -18,8 +18,8 @@ In the second part of this assignment, we used “global warming” txt file to 
 1. create a pair plot of all the variables in a grid
 2. Compute a correlation matrix 
 3. describe why the better performing model made the model perform better.
-4. Use the coefficients to gain insights into the global warming problem.
-5. Describe inference conclusions.
+4. **Use the coefficients to gain insights into the global warming problem**.
+5. **Describe inference conclusions**.
 
 Also, there is an optional question where I did:
 1. implement a reduce method in the rdd class. 
