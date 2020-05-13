@@ -1,4 +1,4 @@
-This is homework 4 of Big Data Analytics course: **TF-IDF for text classification using Regularized Logistic Regression**
+This is homework 4 of Big Data Analytics course: **Text classification using TF-IDF vectorizer and Regularized Logistic Regression**
 
 I used **spark, spark machine learning, spark data frames, RDD's, and map reduce** to solve all problems.
 
