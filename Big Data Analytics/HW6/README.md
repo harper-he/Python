@@ -1,4 +1,4 @@
-This is homework 6 of Big Data Analytics course：Wine Quality Exploration and Analysis
+This is homework 6 of Big Data Analytics course：Wine Quality Exploration Analysis and Classigication using PySpark and MLlib
 
 In this assignment, I would love to use visualizations, machine learning, and inference to learn more about the characteristics of a good wine and predict good wines. 
 
