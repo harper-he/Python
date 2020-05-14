@@ -1,4 +1,4 @@
-This is homework 5 of Big Data Analytics course：**K-means Clustering via Principal Component Analysis**
+This is homework 5 of Big Data Analytics course：**Data science programs K-means Clustering via Principal Component Analysis**
 
 I used spark, spark machine learning, spark data frames, RDD's, and map reduce to solve all problems.
 
