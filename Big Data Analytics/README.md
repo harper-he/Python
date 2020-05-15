@@ -3,6 +3,14 @@ This repository is a collection of 6 homework assignments and one group project 
 ## Tools: 
 Python + Spark’s machine learning (ML) library
 
+## Table of Content
+#### HW1:
+numpy, matplotlib and pandas basic operations 
+##### Keywords: 
+functions, classes, monte-carlo simulation
+#### HW2:
+
+
 ##  Topics:<br /> 
 #### Hadoop, Spark
 #### Logistic Regression / Regularization: 
@@ -20,13 +28,6 @@ entropy, gini index, information gain
 #### Bootstrap Sampling / Bagging
 #### Deep Learning: 
 Neural Networks, gradient descent, forward and back propagation<br /> 
-
-## Table of Content
-#### HW1:
-create functions, create classes, monte-carlo simulation, numpy, matplotlib and pandas basic operations<br /> 
-#### HW2:
-
-
 
 ## Course information:
 
