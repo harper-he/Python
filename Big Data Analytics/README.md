@@ -4,8 +4,10 @@ This repository is a collection of 6 homework assignments and one group project 
 Python + Spark’s machine learning (ML) library
 
 ## Table of Content
-#### HW1:<p>numpy, matplotlib and pandas basic operations</p>
-##### Keywords: <p>functions, classes, monte-carlo simulation</p>
+#### HW1: 
+<p>numpy, matplotlib and pandas basic operations</p>
+##### Keywords: 
+<p>functions, classes, monte-carlo simulation</p>
 #### HW2:
 
 
