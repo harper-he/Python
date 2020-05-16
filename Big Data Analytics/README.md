@@ -5,11 +5,9 @@ Python + Spark’s machine learning (ML) library
 
 ## Table of Content
 #### HW1: Numpy, Matplotlib and Pandas Basic Operations
-##### Keywords: 
 functions, classes, monte-carlo simulation
 #### HW2: Map-Reduce to RDDs that calculated certain values
 #### HW3: Predicting number of transistors Using Spark Machine Learning Logistic Regression
-##### Keywords: 
 log transform, pipeline,coefficients, intercept, mean squared error, inference
 #### HW4:Text classification using TF-IDF vectorizer and Regularized Logistic Regression
 ##### Keywords: 
