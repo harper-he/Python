@@ -5,19 +5,16 @@ Python + Spark’s machine learning (ML) library
 
 ## Table of Content
 #### HW1: Numpy, Matplotlib and Pandas Basic Operations
-     functions, classes, monte-carlo simulation
+          functions, classes, monte-carlo simulation
 #### HW2: Map-Reduce to RDDs that calculated certain values
 #### HW3: Predicting number of transistors Using Spark Machine Learning Logistic Regression
-log transform, pipeline,coefficients, intercept, mean squared error, inference
+          log transform, pipeline,coefficients, intercept, mean squared error, inference
 #### HW4:Text classification using TF-IDF vectorizer and Regularized Logistic Regression
-##### Keywords: 
-term frequency, inverse document frequency, overfitting, cross validation, ROC, AUC, elastic net regularization, L1 and L2 regularization, grid search for parameters,L1 feature selection 
+          term frequency, inverse document frequency, overfitting, cross validation, ROC, AUC, elastic net regularization, L1 and L2 regularization, grid search for parameters,L1 feature selection 
 #### HW5: Data science programs K-means Clustering via Principal Component Analysis
-##### Keywords: 
-tfidf, principal components, loadings, inverse transform, projection
+          tfidf, principal components, loadings, inverse transform, projection
 #### HW6: Wine Quality Exploration Analysis and Classification using PySpark and MLlib
-##### Keywords:
-Random Forest Classifier, cross validation, feature importances, gini index, impurity, GBT Classifier
+          Random Forest Classifier, cross validation, feature importances, gini index, impurity, GBT Classifier
 
 ##  Topics:<br /> 
 #### Hadoop, Spark
