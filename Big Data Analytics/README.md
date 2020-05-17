@@ -26,7 +26,7 @@ generalization performance, loss function, bias / variance trade off, model comp
 reducible error, irreducible error, parametric model, non-parametric model, inference, maximum likelihood estimation
 #### PCA: 
 loading vector, score, projection, scree plot, feature selection, implement a recommender system<br /> 
-### Features Extracting, transforming and selecting:
+#### Features Extracting, transforming and selecting:
 TFIDF, StringIndexer, OneHotEncoder, StandardScaler, Bucketizer, VectorAssembler
 #### Random Forest, Gradient Boosting Machines:
 entropy, gini index, information gain 
