@@ -24,7 +24,7 @@ polarity	of	the	review.
 * Pandas
 
 ## Project Description:
-The movie reviews from amazon from [Stanford Network Analysis Project] website (http://snap.stanford.edu/data/web-Movies.html) was used for this project
+The movie reviews from amazon from [Stanford Network Analysis Project](http://snap.stanford.edu/data/web-Movies.html) website was used for this project
 In the text preprocessing phrase, I removed stop words and lemmatized the review text;
 In the text to features phrase, I tokenized the review text and normalize them (if necessary);
 In the model training phrase, I used decision tree, k nearest neighbors and Naïve Bayes algorithms to train the model.
