@@ -31,6 +31,12 @@ The movie reviews from amazon from [Stanford Network Analysis Project](http://sn
 * model evaluation phrase: cross validation method for each model and compare the accuracy, precision, recall and F1 score of them to get the best model.
 
 
+## Project Feedback: May consider thesis/publication in future
+Email from the teaching assistant on behalf of professor:
+
+I am writing to let you know that you have done considerably well in your project and wanted to encourage you to either think for a thesis or publication in the future. 
+
+
 
 
 
