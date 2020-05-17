@@ -1,4 +1,4 @@
-This repository is a collection of 6 homework assignments and one group project of Big Data Analytics course.
+This repository is a collection of 6 homework assignments and one group project of [Big Data Analytics course](https://github.com/harper-he/Python/blob/master/Big%20Data%20Analytics/README.md#course-information).
 
 ## Tools: 
 Python + Spark’s machine learning (ML) library
