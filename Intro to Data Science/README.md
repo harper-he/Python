@@ -20,6 +20,4 @@ Python + Spark’s machine learning (ML) library
 ## Professor: 
 Reza Zafarani
 ## Course description
-Fundamentals of the knowledge discovery and data mining process. Basics of supervised and unsupervised learning. Applications (recommendation and collaborative filtering) and computational tools for carrying out predictive/descriptive modeling. Additional work required for graduate students.
-
-
+Fundamentals of the **knowledge discovery** and **data mining** process. Basics of **supervised** and **unsupervised learning**. Applications (**recommendation** and **collaborative filtering**) and computational tools for carrying out **predictive/descriptive modeling**. 
