@@ -25,10 +25,10 @@ polarity	of	the	review.
 
 ## Project Description:
 The movie reviews from amazon from [Stanford Network Analysis Project](http://snap.stanford.edu/data/web-Movies.html) website was used for this project
-* text preprocessing phrase: removed stop words and lemmatized the review text;
-* text to features phrase: tokenized the review text and normalize them (if necessary);
-* model training phrase: decision tree, k nearest neighbors and Naïve Bayes algorithms to train the model.
-* model evaluation phrase: cross validation method for each model and compare the accuracy, precision, recall and F1 score of them to get the best model.
+* text preprocessing phrase: **removed stop words** and **lemmatized** the review text;
+* text to features phrase: **tokenized** the review text and **normalize** them (if necessary);
+* model training phrase: **decision tree**, **k nearest neighbors** and **Naïve Bayes** algorithms to train the model.
+* model evaluation phrase: **cross validation** method for each model and compare the **accuracy, precision, recall and F1 score** of them to get the best model.
 
 
 ## Project Feedback: May consider thesis/publication in future
