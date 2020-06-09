@@ -6,7 +6,7 @@ Python + Spark’s machine learning (ML) library
 # Table of Content:
 
 | Repo  | Tool  | Topics  | 
-|---|---|---|---|
+|---|---|---|
 | Text Clustering  | NLTK, Scikit-learn  | Unique words set, Remove stopwords, Words count, Vectorize, k-means Clustering Centroid representation  |
 | Big Data Analytics   | Spark  | Hadoop, Spark, Logistic Regression, Regularization,Statistical Learning, PCA, Random Forest, Gradient Boosting Machines, Bootstrap Sampling, Bagging, Deep Learning | 
 | Natural Language Processing  | NLTK  | Machine Learning, Linguistic analysis, Tokenization, Semantics, Part-of-speech tagging, syntax and discourse, Sentiment analysis, Dialogue systems  |  
