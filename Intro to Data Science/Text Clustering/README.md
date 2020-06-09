@@ -1,5 +1,5 @@
-Problem 3 - Text Clustering 
-Download the finne foods dataset from:
+Text Clustering <br>
+Download the fine foods dataset from:
 http://snap.stanford.edu/data/web-FineFoods.html
 Perform the following:
 * Identify all the unique words that appear in the \review/text" eld of the reviews. Denote the set of such words as L.
