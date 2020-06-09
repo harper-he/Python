@@ -8,8 +8,8 @@ Python + Spark’s machine learning (ML) library
 | Repo  | Tool  | Topics  | 
 |---|---|---|
 | Text Clustering  | NLTK, Scikit-learn  | Unique words set, Remove stopwords, Words count, Vectorize, k-means Clustering Centroid representation  |
-| Big Data Analytics   | Spark  | Hadoop, Spark, Logistic Regression, Regularization,Statistical Learning, PCA, Random Forest, Gradient Boosting Machines, Bootstrap Sampling, Bagging, Deep Learning | 
-| Natural Language Processing  | NLTK  | Machine Learning, Linguistic analysis, Tokenization, Semantics, Part-of-speech tagging, syntax and discourse, Sentiment analysis, Dialogue systems  |  
+| SAX_Apriori_PageRank_CollaborativeFiltering_LoF   | Scikit-learn  | Symbolic Aggregate approximation, Apriori, Calculate PageRank values, Collaborative Filtering, local outlier factor | 
+| Sentiment Classification on Movie Reviews  | NLTK  | tokenization, lemmatization, Bag of words, TF-IDF, decision tree, k nearest neighbors, Naïve Bayes |  
 
 ## Topics:
 * Preprocessing
