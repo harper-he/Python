@@ -1,9 +1,9 @@
 This repository is a collection of 2 homework assignments and one individual project of [Introduction to Data Science](https://github.com/harper-he/Python/blob/master/Intro%20to%20Data%20Science/README.md#course-information) course by College of Engineering and Computer Science, Syracuse University.
 
-# Tools:
+## Tools:
 Python + Spark’s machine learning (ML) library
 
-# Table of Content:
+## Table of Content:
 
 | Repo  | Tool  | Topics  | 
 |---|---|---|
@@ -11,9 +11,7 @@ Python + Spark’s machine learning (ML) library
 | Big Data Analytics   | Spark  | Hadoop, Spark, Logistic Regression, Regularization,Statistical Learning, PCA, Random Forest, Gradient Boosting Machines, Bootstrap Sampling, Bagging, Deep Learning | 
 | Natural Language Processing  | NLTK  | Machine Learning, Linguistic analysis, Tokenization, Semantics, Part-of-speech tagging, syntax and discourse, Sentiment analysis, Dialogue systems  |  
 
-
-
-# Topics:
+## Topics:
 * Preprocessing
 * Visualization
 * Classification (Basics/Lazy/Bayesian & Evaluation)
@@ -23,8 +21,8 @@ Python + Spark’s machine learning (ML) library
 * Web Mining
 * Recommender Systems
 
-# Course information:
-## Professor: 
+## Course information:
+### Professor: 
 Reza Zafarani
-## Course description
+### Course description
 Fundamentals of the **knowledge discovery** and **data mining** process. Basics of **supervised** and **unsupervised learning**. Applications (**recommendation** and **collaborative filtering**) and computational tools for carrying out **predictive/descriptive modeling**. 
