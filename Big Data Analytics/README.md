@@ -5,6 +5,7 @@ Python + Spark’s machine learning (ML) library
 
 ## Table of Content
 | Repo | Title | Content |
+| -- | -- | -- |
 | HW1 | Numpy, Matplotlib and Pandas Basic Operations | functions, classes, monte-carlo simulation |
 | HW2 | Map-Reduce to RDDs that calculated certain values | |
 | HW3 | Predicting number of transistors Using Spark Machine Learning Logistic Regression | log transform, pipeline,coefficients, intercept, mean squared error, inference |
