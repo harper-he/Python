@@ -4,6 +4,14 @@ This repository is a collection of 6 homework assignments and one group project 
 Python + Spark’s machine learning (ML) library
 
 ## Table of Content
+| Repo | Title | Content |
+| HW1 | Numpy, Matplotlib and Pandas Basic Operations | functions, classes, monte-carlo simulation |
+| HW2 | Map-Reduce to RDDs that calculated certain values | |
+| HW3 | Predicting number of transistors Using Spark Machine Learning Logistic Regression | log transform, pipeline,coefficients, intercept, mean squared error, inference |
+| HW4 | Text classification using TF-IDF vectorizer and Regularized Logistic Regression | term frequency, inverse document frequency, overfitting, cross validation, ROC, AUC, elastic net regularization, L1 and L2 regularization, grid search for parameters,L1 feature selection |
+| HW5 | Data science programs K-means Clustering via Principal Component Analysis | tfidf, principal components, loadings, inverse transform, projection| 
+| HW6 | Wine Quality Exploration Analysis and Classification using PySpark and MLlib | Random Forest Classifier, cross validation, feature importances, gini index, impurity, GBT Classifier |
+
 #### HW1: Numpy, Matplotlib and Pandas Basic Operations
           functions, classes, monte-carlo simulation
 #### HW2: Map-Reduce to RDDs that calculated certain values
