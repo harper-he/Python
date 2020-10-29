@@ -1,9 +1,9 @@
-Task:</br>
-Scrape the content on Peacock.
+### Task:</br>
+Scrape the content on Peacock.</br>
 Index all Peacock URLs and scrape them for relevant content to populate our platform. 
 
-Steps:
-Index URLs:
+### Steps:</br>
+Index URLs:</br>
 1. Go to https://www.peacocktv.com/sitemap.xml and download the sitemap-1.xml(movie) and sitemap-2.xml(tv)
 2. urlgen/generators/peacocktv.py takes the XML documents and returns Python objects which mirrors the nodes and attributes in theis structure for future use.
 3. The output text file of URLs are at 'urlgen/outputs/'
