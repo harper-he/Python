@@ -17,9 +17,9 @@ Simple newsletter functionality: superuser can view the list of all subscribers 
 Stripe payments API endpoint available at /api/payments/.
 
 Main requirements
-python 3.5, 3.6, 3.7
+python 3.6.5
 Django 2.1.8
 PostgreSQL 11.1
-This project also uses other packages (see requirements.txt file for details). For instance, tag support is provided by django-taggit and image processing is thanks to Pillow.
+This project also uses other packages (see requirements.txt file for details). 
 
-URL chekcing
+
