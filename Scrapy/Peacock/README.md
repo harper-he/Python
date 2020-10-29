@@ -1,7 +1,11 @@
 Expand the number of platforms on our product. Netflix, Hulu etc. NBC streaming content called Peacock. Compared to our competitors, we didn’t have enough platforms/
 
 Task:
-Index all Peacock URLs and scrape them for relevant content to populate our platform. Challenges: 1. First time using Scrapy & First time scrape the whole website other than single page 2. The structure of Peacock is different from other platforms, not json but javascrpit
+Index all Peacock URLs and scrape them for relevant content to populate our platform. 
+
+Challenges: 
+1. First time using Scrapy & First time scrape the whole website other than single page 
+2. The structure of Peacock is different from other platforms, some data are stored as in javascrpit other than json.
 
 1. Read the tutorial & Review previous scrapers to understand the work process
 2. Use samples to test the code, save time
