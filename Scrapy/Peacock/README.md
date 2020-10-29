@@ -1,4 +1,4 @@
-Task:
+Task:</br>
 Scrape the content on Peacock.
 Index all Peacock URLs and scrape them for relevant content to populate our platform. 
 
