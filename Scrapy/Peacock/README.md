@@ -17,6 +17,6 @@ Though most fields are scraped from the json file of the website, the field "net
 Some urls are redirected to other pages. 17 urls have status_code as 301, meaning they are redirected to another link. Though these pages are accessible, the infromation is located somewhere else so we cannot extract with current codes. To solve this problem, we can either create logical conditions like if requests.get(url).status_code == 301 ... else ...
 or we can manually update the filed data from javascript.
 
-There are also more than 60 urls with code '302' are redirected to '/unavailable' url. 
+More than 60 urls with code '302' are redirected to '/unavailable' url. 
 
 I successfully scraped 1000 out of 1120 movies, and identified the items that could not be scraped so that we could fix them manually afterwards. It greatly expanded the number of content on our platform and would be a great update in our next release.
