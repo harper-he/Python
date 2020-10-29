@@ -1,4 +1,4 @@
-Expand the number of platforms on our product. Netflix, Hulu etc. NBC streaming content called Peacock. Compared to our competitors, we didn’t have enough platforms/
+Expand the number of platforms on our product. Netflix, Hulu etc. NBC streaming content service: Peacock.
 
 Task:
 Index all Peacock URLs and scrape them for relevant content to populate our platform. 
@@ -7,8 +7,18 @@ Challenges:
 1. First time using Scrapy & First time scrape the whole website other than single page 
 2. The structure of Peacock is different from other platforms, some data are stored as in javascrpit other than json.
 
-1. Read the tutorial & Review previous scrapers to understand the work process
-2. Use samples to test the code, save time
-3. Use developer tools of pages to inspect its element and access javascript 
+Steps:
+Index URLs:
+1. Go to https://www.peacocktv.com/sitemap.xml and download the sitemap-1.xml(movie) and sitemap-2.xml(tv)
+2. urlgen/generators/peacocktv.py takes the XML documents and returns Python objects which mirrors the nodes and attributes in theis structure for future use.
+3. The output text file of URLs are at 'urlgen/outputs/'
+4. Clean the URLs in EXCEL and save it as CSV file in '/scrapytsg/urls/'
+Crawl:
+5. Go to '/scrapytsg/spiders/peacocktv.py' and run command 'scrapy crawl peacocktv -o testcode.json'. This will generate an json file containing all scraped items, serialized in JSON.
+6. Check output in 'scrapytsg/outputs/peacock09.29.2020.json'.
+
+Though most fields are scraped from the json file of the website, the field "network" and "number of seasons" are scraped from javascript.
+
+Some urls are redirected to other pages. 17 urls have status_code as 301, meaning they are redirected to another link. And there are also more than 60 urls with code '302' are redirected to '/unavailable' url. For the titles of the '301' urls, we need to manually update the filed data from javascript.
 
 Successfully scrape 1000 out of 1120 movies, and identified the items that could not be scraped so that we could fix them manually afterwards. Greatly expanded the number of content on our platform. It would be a great update in our Next release.
