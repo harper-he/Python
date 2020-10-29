@@ -18,7 +18,7 @@ chardet==3.0.4
 chompjs==1.0.16
 constantly==15.1.0
 country-converter==0.6.7
-cryptography==2.9.2
+cryptography==3.2
 cssselect==1.1.0
 distro==1.5.0
 Django==2.0.12
