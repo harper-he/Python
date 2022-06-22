@@ -38,7 +38,7 @@ jmespath==0.10.0
 jsonschema==3.2.0
 lxml==4.5.1
 multidict==4.7.6
-numpy==1.19.1
+numpy==1.22.0
 pandas==1.1.0
 paramiko==2.7.1
 parsel==1.6.0
